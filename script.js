@@ -2,7 +2,7 @@ jQuery(function () {
     let widthPlay = $('.playing-field').innerWidth();
     let heightPlay = $('.playing-field').innerHeight();
     let count = 0;
-    let timer = 5;
+    let timer = 60;
     let timeout;
     let flag = false;
 
